@@ -1,3 +1,7 @@
 All that's missing is the fork. Heh.
 Siddharth : added.
+<<<<<<< HEAD
 branch: sub_branch2
+=======
+Branch : sub_branch
+>>>>>>> refs/heads/sub_branch
